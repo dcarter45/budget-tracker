@@ -1,4 +1,4 @@
-# Tech Blog
+# Offline Budget Tracker
 ![License Badge](https://img.shields.io/badge/License-MIT-green)
 
 
@@ -16,45 +16,29 @@ Enter transactions and select  add or subtract funds
 
 
 ## Summary
-AS A developer who writes about tech
-I WANT a CMS-style blog site
-SO THAT I can publish articles, blog posts, and my thoughts and opinions
+For this project we added and modified code to give this Budget app offline functionality.The functionality was provided by using a manifest and service worker to save data to offline storage caches.
 
-## Prerequisites
-* [NodeJS](https://nodejs.org/)
-* [MySQL](https://www.npmjs.com/package/mysql2)
-* [Sequelize](https://www.npmjs.com/package/sequelize)
+
 
 ## Installing
-Run `npm install` to install all dependencies. To use the application locally, run `node server.js` in your CLI, and then open `http://localhost:3000` in your preferred browswer.
-
-Run MongoDB
-Npm Run seed
-Npm start
+no installation needed.
 
 
 ## Deployed Link:
-[Budget Tracker Repo](https://github.com/dcarter45/tech-blog)
+[Budget Tracker Repo](https://github.com/dcarter45/budget-tracker)
 
-[Heroku Live app](https://lit-wildwood-56582.herokuapp.com/)
+[Heroku Live app](https://guarded-shelf-02222.herokuapp.com/)
 
 
 ## Learning Points:
-* This app was a practice in writing the backend code to create,read,update and delete a database.
+* This app was a practice in writing code for manifest and service worker files  and working with local storage.
 
 
 ## Built With
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [NodeJS](https://nodejs.org/)
-* [MySQL](https://www.npmjs.com/package/mysql2)
-* [Sequelize](https://www.npmjs.com/package/sequelize)
-* [express-handlebars](https://www.npmjs.com/package/express-handlebars)  
-* [MySQL2](https://www.npmjs.com/package/mysql2) 
-* [Sequelize](https://www.npmjs.com/package/sequelize) 
-* [dotenv package](https://www.npmjs.com/package/dotenv) 
-* [bcrypt package](https://www.npmjs.com/package/bcrypt)  
-* [express-session](https://www.npmjs.com/package/express-session)  
-* [connect-session-sequelize](https://www.npmjs.com/package/connect-session-sequelize) 
+* [Mongoose](https://www.npmjs.com/package/mongoose-morgan)
+ 
 
 ## Authors
 Darrell Carter
