@@ -1,7 +1,17 @@
 # Tech Blog
+![License Badge](https://img.shields.io/badge/License-MIT-green)
 
-# Video Walkthrough
-(https://watch.screencastify.com/v/5ezECpkT2HWc0nNN6Tda)
+
+
+## Usage
+To use this app, follow the link provided to the live project.
+
+Enter transactions and select  add or subtract funds
+
+
+
+
+![Home Screen]()
 
 
 
@@ -24,8 +34,9 @@ Npm start
 
 
 ## Deployed Link:
-[Ecommerce](https://github.com/dcarter45/tech-blog)
-[Heroku](https://lit-wildwood-56582.herokuapp.com/)
+[Budget Tracker Repo](https://github.com/dcarter45/tech-blog)
+
+[Heroku Live app](https://lit-wildwood-56582.herokuapp.com/)
 
 
 ## Learning Points:
