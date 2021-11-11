@@ -11,7 +11,7 @@ Enter transactions and select  add or subtract funds
 
 
 
-![Home Screen]()
+![Home Screen](./screenshots/Budget-Tracker.png)
 
 
 
